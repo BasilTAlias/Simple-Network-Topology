@@ -303,7 +303,7 @@ Deployed a statically routed network topology using subnetting and multiple rout
 
 **Topology Diagram:**  
 
-![Static Routing Topology](26.png)
+![Static Routing Topology](screenshots/26.png)
 
 ---
 
