@@ -53,8 +53,9 @@ Lab 1 demonstrates building a simple network topology using 2 Layer-2 switches, 
 | Server | Waterloo_Web_BT1995 |
 
 **Topology Diagram:**  
-*Add your topology screenshot here*  
-`![Network Topology](screenshots/1.png)`
+
+  
+![Network Topology](screenshots/1.png)
 
 ---
 
@@ -67,9 +68,9 @@ banner motd # Welcome to <Device Name> #
 ```
 
 **Screenshots:**
-- Router MOTD → `screenshots/2.png`  
-- Switch1 MOTD → `screenshots/3.png`  
-- Switch2 MOTD → `screenshots/4.png`  
+- Router MOTD → ![2](screenshots/2.png)
+- Switch1 MOTD → ![2](screenshots/3.png) 
+- Switch2 MOTD → ![2](screenshots/4.png)  
 
 ---
 
