@@ -1,4 +1,4 @@
-# Simple-Network-Topology
+
 
 # Networking Lab Portfolio
 
@@ -68,12 +68,21 @@ banner motd # Welcome to <Device Name> #
 ```
 
 **Screenshots:**
+
 - Router MOTD →
+  
   ![2](screenshots/2.png)
+
+  
 - Switch1 MOTD →
-  ![2](screenshots/3.png) 
+  
+  ![2](screenshots/3.png)
+
+  
 - Switch2 MOTD →
+  
   ![2](screenshots/4.png)  
+
 
 ---
 
