@@ -68,9 +68,12 @@ banner motd # Welcome to <Device Name> #
 ```
 
 **Screenshots:**
-- Router MOTD → ![2](screenshots/2.png)
-- Switch1 MOTD → ![2](screenshots/3.png) 
-- Switch2 MOTD → ![2](screenshots/4.png)  
+- Router MOTD →
+  ![2](screenshots/2.png)
+- Switch1 MOTD →
+  ![2](screenshots/3.png) 
+- Switch2 MOTD →
+  ![2](screenshots/4.png)  
 
 ---
 
@@ -81,9 +84,12 @@ enable password <Password>
 ```
 
 **Screenshots:**
-- Router → `screenshots/router_enable.png`  
-- Switch1 → `screenshots/switch1_enable.png`  
-- Switch2 → `screenshots/switch2_enable.png`  
+- Router →
+  ![2](screenshots/5.png)
+- Switch1 →
+  ![2](screenshots/6.png)
+- Switch2 →
+  ![2](screenshots/7.png)  
 
 ---
 
@@ -106,9 +112,12 @@ service password-encryption
 ```
 
 **Screenshots:**
-- Router → `screenshots/router_console.png`  
-- Switch1 → `screenshots/switch1_console.png`  
-- Switch2 → `screenshots/switch2_console.png`  
+- Router →
+  ![2](screenshots/8.png)   
+- Switch1 →
+  ![2](screenshots/9.png)  
+- Switch2 →
+  ![2](screenshots/10.png)  
 
 ---
 
@@ -117,15 +126,23 @@ service password-encryption
 Steps performed:  
 1. Set hostname and domain name (`itns.local`).  
 2. Enabled AAA authentication: `aaa new-model`.  
-3. Created a user: `<initials + last 4 digits of student ID>`.  
+3. Created a user: `<initials + last 4 digits >`.  
 4. Generated RSA keys: `crypto key generate rsa`.  
 5. Set SSH version 2: `ip ssh version 2`.  
 6. Configured VTY lines for SSH and Telnet.
 
 **Screenshots:**
-- Router → `screenshots/router_ssh.png`  
-- Switch1 → `screenshots/switch1_ssh.png`  
-- Switch2 → `screenshots/switch2_ssh.png`  
+- Router →
+  ![2](screenshots/11.png)
+  ![2](screenshots/12.png) 
+ 
+- Switch1 →
+  ![2](screenshots/13.png)
+  ![2](screenshots/14.png)
+  
+- Switch2 →
+  ![2](screenshots/15.png)
+  ![2](screenshots/16.png)   
 
 ---
 
