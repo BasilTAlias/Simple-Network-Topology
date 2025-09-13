@@ -206,11 +206,26 @@ Steps performed:
 | Waterloo_Web_BT1995 | 172.16.1.2 |
 
 **Ping Tests:**  
-*Add screenshots of successful pings:*  
-- PC1 → Router: `screenshots/pc1_router_ping.png`  
-- PC1 → Switch1: `screenshots/pc1_switch1_ping.png`  
-- PC1 → Switch2: `screenshots/pc1_switch2_ping.png`  
-- PC1 → Web Server: `screenshots/pc1_server_ping.png`  
+ 
+- PC1 → Router:
+
+   ![2](screenshots/17.png)
+  
+ 
+- PC1 → Switch1:
+  
+  ![2](screenshots/18.png)
+
+    
+- PC1 → Switch2:
+
+  ![2](screenshots/19.png) 
+
+  
+- PC1 → Web Server:
+
+  ![2](screenshots/20.png)
+
 
 ---
 
@@ -223,15 +238,33 @@ ssh <username>@<device_ip>
 ```
 
 **Screenshots:**
-- PC2 → Switch2 → `screenshots/pc2_switch2_ssh.png`  
-- PC2 → Router → `screenshots/pc2_router_ssh.png`  
-- PC1 → Switch1 → `screenshots/pc1_switch1_ssh.png`  
-- PC1 → Router → `screenshots/pc1_router_ssh.png`  
+- PC2 → Switch2 →
+
+  ![2](screenshots/21.png)
+
+ 
+- PC2 → Router →
+  
+  ![2](screenshots/22.png)
+
+
+- PC1 → Router →
+  
+  ![2](screenshots/23.png)
+
+  
 
 **Switch-to-Switch SSH connections:**
-- IT_SW2 → CS_SW1 → `screenshots/switch2_switch1_ssh.png`  
-- CS_SW1 → IT_SW2 → `screenshots/switch1_switch2_ssh.png`  
+- IT_SW2 → CS_SW1 →
+  
+  ![2](screenshots/24.png)
 
+ 
+- CS_SW1 → IT_SW2 → 
+
+  ![2](screenshots/25.png)
+
+ 
 ---
 
 ### Observations
@@ -269,7 +302,8 @@ Deployed a statically routed network topology using subnetting and multiple rout
 | Web Server | Waterloo_Web_BT1995 |
 
 **Topology Diagram:**  
-`![Static Routing Topology](screenshots/static_routing_topology.png)`
+
+![Static Routing Topology](26.png)
 
 ---
 
@@ -279,7 +313,7 @@ Deployed a statically routed network topology using subnetting and multiple rout
 - Configured privileged mode, console, and VTY passwords.  
 - Configured SSH with RSA keys and version 2.
 
-*Add screenshots for all relevant steps in `screenshots/` folder.*
+
 
 ---
 
@@ -305,11 +339,27 @@ Deployed a statically routed network topology using subnetting and multiple rout
 - Configured static routes on Switch2 to reach remote LAN networks.
 
 **Screenshots:**
-- Router1 routing table → `screenshots/router1_routing.png`  
-- Router2 routing table → `screenshots/router2_routing.png`  
-- Switch2 routing table → `screenshots/switch2_routing.png`  
-- Ping tests PC ↔ Server → `screenshots/pc_server_ping.png`  
-- SSH tests from PC1 → devices → `screenshots/pc1_ssh_tests.png`
+- Router1 routing table →
+  
+  ![2](screenshots/27.png)
+
+ 
+- Router2 routing table →
+  
+  ![2](screenshots/28.png)
+
+ 
+- Switch2 routing table →
+  
+  ![2](screenshots/29.png)
+
+ 
+- Ping tests PC ↔ Server →
+  
+  ![2](screenshots/30.png)
+
+  ![2](screenshots/31.png)
+
 
 ---
 
