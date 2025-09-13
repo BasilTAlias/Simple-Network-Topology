@@ -85,11 +85,19 @@ enable password <Password>
 
 **Screenshots:**
 - Router →
+  
   ![2](screenshots/5.png)
+
+  
 - Switch1 →
+  
   ![2](screenshots/6.png)
+
+  
 - Switch2 →
-  ![2](screenshots/7.png)  
+  
+  ![2](screenshots/7.png)
+  
 
 ---
 
@@ -113,11 +121,19 @@ service password-encryption
 
 **Screenshots:**
 - Router →
-  ![2](screenshots/8.png)   
+  
+  ![2](screenshots/8.png)
+
+    
 - Switch1 →
-  ![2](screenshots/9.png)  
+  
+  ![2](screenshots/9.png)
+
+  
 - Switch2 →
-  ![2](screenshots/10.png)  
+  
+  ![2](screenshots/10.png)
+  
 
 ---
 
@@ -133,16 +149,25 @@ Steps performed:
 
 **Screenshots:**
 - Router →
+  
   ![2](screenshots/11.png)
+  
   ![2](screenshots/12.png) 
+
  
 - Switch1 →
-  ![2](screenshots/13.png)
-  ![2](screenshots/14.png)
   
+  ![2](screenshots/13.png)
+
+  ![2](screenshots/14.png)
+
+
 - Switch2 →
+  
   ![2](screenshots/15.png)
+  
   ![2](screenshots/16.png)   
+
 
 ---
 
